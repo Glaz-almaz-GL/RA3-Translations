@@ -1,0 +1,8 @@
+description=The Corona mod introduces a brand-new fourth faction—Shenzhou. Like the other three factions in the original game, Shenzhou features its own independent buildings, carefully crafted units, and commander protocols.
+Furthermore, the original unit system for the three factions will undergo significant changes: movement, range, and rate of fire will be more streamlined. In-game special effects will also be significantly improved, and unit stats will be balanced based on the results of combat testing.
+After completing the development of the base units for the four factions, Corona will create subfactions for each. Corona will develop a large number of unit models in different styles, offering players a choice of different visual and tactical styles.
+Naval warfare will undergo significant changes under the conditions of the Midday Corona. Capital ships will have more rational sizes, higher costs, and more powerful armament, and their turrets will operate independently. The initial skirmish technology system for each faction will be expanded, and after the Tier 4 technology update, it will be limited to the creation of a single Epic unit. This Epic unit will be modular, and most of its turrets will be able to act independently (i.e., attack different targets separately).
+creation-date=2019-12-15:00-00
+author=Corona Mod Team
+categories=New Fraction, Rebalance, New Features
+gameversion=12.0
