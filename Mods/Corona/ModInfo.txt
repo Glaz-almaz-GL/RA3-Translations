@@ -5,4 +5,8 @@ Naval warfare will undergo significant changes under the conditions of the Midda
 creation-date=2019-12-15:00-00
 author=Corona Mod Team
 categories=New Fraction, Rebalance, New Features
+website=https://cor-games.com/
+repositoryUrl=
+isFeatured=false
+totalDownloads=0
 gameversion=12.0
