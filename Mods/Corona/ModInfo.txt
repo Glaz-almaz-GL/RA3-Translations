@@ -9,4 +9,4 @@ website=https://cor-games.com/
 repositoryUrl=
 isFeatured=false
 totalDownloads=0
-gameversion=12.0
+gameversion=1.12
