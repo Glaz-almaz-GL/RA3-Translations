@@ -1,0 +1,4 @@
+changelog=Just fixed the Cryostorm FAV problem. Rejuvenation 1.5, an update that comes a bit late. Some unique subfaction replacements and remakes.
+updation-date=2024-11-15:00-00
+isBeta=false
+gameversion=1.12

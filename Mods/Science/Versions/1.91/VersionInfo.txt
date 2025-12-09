@@ -1,0 +1,32 @@
+changelog=1. Due to all required functions being implemented and built into the mod file, this version does not come with the Science Mod Launcher.
+The old version of the launcher is still available and requires manual modification of relevant configuration files.
+2. Use MakeBigX and RefPack-Cli technology to compress mod files, significantly reducing file size.
+3. Adapt to the RA3BattleNet.
+4. Adapt to the New World Builder.
+5. Add videos of Skirmish AI commanders.
+6. Fixed the issue of EVA voice errors in some campaigns.
+7. The newly added maps have been changed to their original name in RA3 Uprising, no longer using the map names from Upheaval 1.16.
+8. Porting a portion of Uprising maps with special effects, all marked with the [Exp] prefix.
+Cooked Through (2)
+Fire Island (2)
+Hard Lesson (2)
+Kodiak Lake (2)
+Pure Oniage (2)
+Snow Plow (2)
+Wrong Steppe (2)
+Caldera of Chaos (3)
+Pyroclasm (3)
+Death Aquatic (4)
+Ghoste Towne (4)
+Sunken Shipping (4)
+9. Epic units cancel the setting of crashing enemy aircrafts.
+10. Fixed the issue of Allied Ore Refinery building new Prospectors but not working.
+11. Fixed the issue of Sudden Transport disguising as Shogun Executioner and causing display errors.
+12. Tsunami Tank has added the Fortified Fleet upgrade and corresponding texture.
+13. Fixed the issue where the Redeemer not damaged after being attacked by Wave-Force weapons.
+14. Fixed the issue of Giga-Fortress and Troy Fortress's Sky Fortress Mode longitudinal weapons causing misfire when attacking moving units.
+15. Fixed the issue of uneven landing of V4 Rocket Launcher's scattering missiles and Archer Maiden's Barrage Shot weapon.
+16. Optimize the motion logic of units such as Future Tech's MCV.
+updation-date=2023-10-24:00-00
+isBeta=false
+gameversion=1.12

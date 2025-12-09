@@ -1,0 +1,10 @@
+description=The most popular mod in the Chinese gaming community, CnC, adds a new fourth faction, and no... it's not China, aliens, or anything else, but the familiar Future Tech corporation. The company specializes in robotic forces and is considered one of the project's most powerful factions, possessing the most advanced technology in the universe.
+
+However, other factions, such as the USSR, Japan, and the Alliance, have also changed. All of them have received a large number of new units and heroes. Japan has the most content, now rivaling Future Tech in terms of the number of combat robots and walkers. And of course, there are new maps for the Battle mode.
+author=RA3ModderYary
+categories=New Fraction, Rebalance, New Features
+website=
+repositoryUrl=
+isFeatured=false
+totalDownloads=0
+gameversion=1.12

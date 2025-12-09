@@ -1,0 +1,12 @@
+description=Red Alert 3: Rejuvenation is a mod maintaining the art style of the vanilla RTS of C&C. New features includes:
+Sub factions: GRF(Allies), Legion (Soviet), Fujitai(Rising Sun)
+Over 40 new units of infantries, vehicles, aircrafts and vessels.
+Tons of original models inheriting the art styles (including icons) and special visual
+creation-date=2024-11-15:00-00
+author=Parametheus
+categories=New Fraction, Rebalance, New Features
+website=
+repositoryUrl=
+isFeatured=false
+totalDownloads=0
+gameversion=1.12

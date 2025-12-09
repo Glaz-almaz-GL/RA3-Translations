@@ -1,0 +1,14 @@
+description=6 new subfactions: Hawk Eye and Nemesis for the Alliance, Kagerou and Tenkei for Japan, KGB and Scarlet Crescent for the Soviets;
+More realistic effects, firing range, and weapon damage. Many units can miss;
+Various improvements to buildings and units;
+More challenging AI, including "Elite" difficulty, which gives the AI ​​a special tech tree and super units;
+Improved balance for PvP battles;
+More destructive superweapons. The Soviet nuclear missile can now wipe out most of the map, Japanese weapons, in addition to local damage, subjugate enemy units across the map, and Alliance weapons completely freeze opponents for several minutes;
+creation-date=2025-10-09:00-00
+author=AR Mysterious Research Group
+categories=New Fraction, Rebalance, New Features
+website=https://cncseries.ru/armor-rush/
+repositoryUrl=
+isFeatured=false
+totalDownloads=0
+gameversion=1.12

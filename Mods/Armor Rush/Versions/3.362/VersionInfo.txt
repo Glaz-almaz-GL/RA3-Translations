@@ -1,0 +1,6 @@
+changelog=Soviet Faction:
+1.Tesla Tank: single shot damage -10(80->70), reload time +1s(2.5s->3.5s). ability single shot damage -33%, to structure extra -20%, shot count 02, scatter radius -40(140->100)
+2.Natasha: ability range -75(600->525), aim time +2.5s(2.5s->5s)
+updation-date=2025-10-07:00-00
+isBeta=false
+gameversion=1.12
